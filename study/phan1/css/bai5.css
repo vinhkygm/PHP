@@ -1,0 +1,39 @@
+* {
+    font-family: Roboto;
+    box-sizing: border-box;
+}
+
+.form {
+    display: flex;
+    padding: 16px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form .header {
+    width: 400px;
+    background-color: rgb(13, 102, 83);
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+
+.form .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 400px;
+    padding: 16px;
+    background-color: rgb(23, 160, 114);
+}
+
+.form .content .button {
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+}
+
+.result {
+    background-color: rgb(255, 231, 163);
+}

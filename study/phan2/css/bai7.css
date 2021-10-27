@@ -1,0 +1,31 @@
+form {
+    background-color: rgb(108, 188, 212);
+    width: 25%;
+}
+
+.header {
+    padding: 8px;
+    background-color: rgb(37, 85, 173);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+table {
+    padding: 8px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit,
+.result {
+    background-color: rgb(230, 245, 145);
+}

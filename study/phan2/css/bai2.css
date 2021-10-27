@@ -1,0 +1,35 @@
+.star {
+    color: rgb(255, 77, 77);
+    font-weight: 800;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 16px;
+}
+
+form {
+    justify-content: center;
+    background-color: rgb(167, 187, 142);
+    width: 20%;
+}
+
+.header {
+    background-color: rgb(65, 187, 161);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+table {
+    padding: 16px;
+}
+
+.result {
+    background-color: rgb(221, 247, 109);
+}
+
+.submit {
+    background-color: rgb(231, 229, 131);
+}

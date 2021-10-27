@@ -1,0 +1,30 @@
+.header {
+    background-color: rgb(67, 161, 145);
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 8px;
+    font-size: 30px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    background-color: rgb(153, 226, 214);
+}
+
+span,
+.text {
+    color: red;
+}
+
+.footer {
+    text-align: center;
+    padding: 8px;
+    background-color: rgb(153, 209, 192);
+}
+
+.trow {
+    background-color: rgb(153, 209, 192);
+}

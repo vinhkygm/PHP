@@ -1,0 +1,32 @@
+.header {
+    background-color: rgb(206, 83, 124);
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: white;
+}
+
+form {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    border: solid 1px black;
+}
+
+.trow {
+    background-color: rgb(255, 220, 229);
+}
+
+.inputFix {
+    background-color: rgb(255, 177, 177);
+}
+
+span {
+    color: red;
+    font-weight: 800;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
