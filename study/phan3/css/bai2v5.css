@@ -1,0 +1,9 @@
+.subInfo {
+    display: flex;
+}
+
+.companyName,
+.weight,
+.price {
+    padding-left: 8px;
+}

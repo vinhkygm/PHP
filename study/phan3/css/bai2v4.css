@@ -1,0 +1,32 @@
+th {
+    color: red;
+    background-color: rgb(255, 220, 195)
+}
+
+.trow {
+    color: red;
+}
+
+table {
+    margin: 16px;
+    /* display: flex;
+    justify-content: center; */
+    width: 94%;
+}
+
+.footer {
+    margin: 0px 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    margin: 0 16px;
+    font-size: 30px;
+    color: red;
+    text-align: center;
+}
+
+body {
+    width: 30%;
+}

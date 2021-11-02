@@ -1,0 +1,22 @@
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    width: 50%;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+th {
+    color: red;
+}
+
+* {
+    font-family: Roboto;
+}
