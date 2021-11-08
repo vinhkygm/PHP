@@ -1,0 +1,47 @@
+* {
+    font-family: Roboto;
+}
+
+img {
+    width: 100px;
+    margin-left: auto;
+}
+
+table,
+th,
+tr,
+td {
+    border: 1px solid gray;
+    text-align: justify;
+}
+
+th {
+    background-color: #ff760033;
+}
+
+h2 {
+    color: #ff5200;
+    font-weight: bold;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+center {
+    margin-top: 10px;
+}
+
+.header {
+    text-align: center;
+    width: 600px;
+    font-size: 30px;
+    color: rgba(235, 82, 120, 0.842);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

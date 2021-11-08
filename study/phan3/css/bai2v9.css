@@ -1,0 +1,54 @@
+.container {
+    background-color: #faf4d4;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+}
+
+table,
+tr,
+td,
+th {
+    border: 2px solid red;
+    text-align: justify;
+}
+
+th {
+    background-color: #f5b57e33;
+}
+
+input {
+    height: 40px;
+}
+
+h2,
+h3 {
+    color: #bb7e23;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: #fa2763a8;
+}
+
+h2,
+.main {
+    background: rgb(255, 197, 206);
+    padding: 10px;
+}
+
+.main {
+    height: 64px;
+}
+
+button {
+    height: 40px;
+}
+
+.button {
+    background-color: rgb(248, 171, 182);
+}

@@ -2,10 +2,6 @@
     font-family: Roboto;
 }
 
-.subInfo {
-    display: flex;
-}
-
 .companyName,
 .weight,
 .price {
@@ -14,18 +10,6 @@
 
 img {
     width: 100px;
-}
-
-.imgProduct {
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
-    text-align: center;
-    width: 200px;
-}
-
-.infoProduct {
-    padding: 40px;
 }
 
 .header {
@@ -38,7 +22,7 @@ img {
 }
 
 body {
-    width: 30%;
+    width: 70%;
     display: flex;
     flex-direction: column;
     /* border: solid 1px black; */
@@ -49,6 +33,15 @@ table {
     border-collapse: collapse;
 }
 
+.product {
+    text-align: center;
+}
+
 .name {
     font-weight: 800;
+}
+
+td {
+    width: 500px;
+    vertical-align: text-top;
 }
