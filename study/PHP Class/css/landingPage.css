@@ -182,6 +182,80 @@ body {
 }
 
 
+/* personnal Infomation Section */
+
+.personnalInformationSection {
+    position: relative;
+    background: url("../assets/image/AVA.png") no-repeat 50% 38% / cover;
+    height: 666px;
+}
+
+.personnalInformationSection .background {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: rgba(201, 44, 44, 0.5);
+    height: 666px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.personnalInformationSection .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.personnalInformationSection .content .image {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background: url("../assets/image/AVA.png") no-repeat center / cover;
+}
+
+.personnalInformationSection .content .textSection {
+    margin-left: 80px;
+}
+
+.personnalInformationSection .content .textSection .header {
+    font-size: 64px;
+}
+
+.personnalInformationSection .content .textSection .header span {
+    font-size: 18px;
+}
+
+.personnalInformationSection .content .textSection .infoText .text {
+    font-family: 'Raleway';
+}
+
+.personnalInformationSection .content .textSection .icon {
+    border-radius: 4px;
+    width: 40px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8px 8px;
+}
+
+.personnalInformationSection .content .textSection .icon img {
+    width: 24px;
+    filter: invert(1);
+}
+
+.personnalInformationSection .content .textSection .subject {
+    display: flex;
+    align-items: center;
+}
+
+
 /* infomationSection */
 
 .informationSection {
